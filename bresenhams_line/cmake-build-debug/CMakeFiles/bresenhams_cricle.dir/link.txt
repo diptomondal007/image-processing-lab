@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/bresenhams_cricle.dir/main.cpp.o  -o bresenhams_cricle  /usr/local/Cellar/glew/2.2.0_1/lib/libGLEW.2.2.dylib /usr/local/Cellar/glfw/3.3.2/lib/libglfw.3.dylib -framework OpenGL -framework GLUT 
